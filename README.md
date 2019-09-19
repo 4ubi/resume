@@ -1,5 +1,6 @@
 # resume
-My resume on php. Used framework laravel.
+Резюме было актульно до 28.03.2019
+My resume on php. Used framework laravel. 
 
 4ubaka.zip archive with code.
 
@@ -18,3 +19,5 @@ To view, simply unzip the archive to the server. And go in the browser to the lo
 For the database used:
                    login: root  
                    password: id82807426
+
+

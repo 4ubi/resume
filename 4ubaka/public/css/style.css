@@ -1,0 +1,48 @@
+@media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} }
+@media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} }
+@media screen and (max-width: 992px) { div. contentblock {width: 970px;} }
+body {
+    padding-top: 1rem;
+
+}
+.background {
+    background-color: #5f005f;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    font-family: 'Ubuntu Condensed', sans-serif;
+   
+}
+
+.aboutme {
+    font-family: Consolas;
+}
+.messages {
+     margin-left: 3em;
+     font-family: 'Ubuntu Condensed', sans-serif;
+    color: #64d5ca;
+
+}
+.left {
+    width: 50%;
+    float: left;
+}
+.right {
+    width: 50%;
+    float: right;
+}
+
+div.right img {
+    
+}
+.contain {
+    background-color: #5f005f;
+    padding: 3rem 1.5rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Open Sans', sans-serif;
+    color: antiquewhite;
+    width: 80%;
+}
+
+ 

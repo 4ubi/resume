@@ -1,0 +1,86 @@
+.body {
+    background: white;
+}
+.header {
+    height: 120px;
+    text-align: center;
+    align-content: center;
+    background: white;
+    padding: initial;
+    clear: both;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+    position: relative;
+}
+.footer {
+    height: 100px;
+
+}
+.content {
+    padding-top: 2%;
+    background: white;
+    width: 80%;
+    height: 90%;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    clear: both;
+    -webkit-border-radius: 20px;
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0.2, 0.2);
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0.2, 0.2);
+    position: relative;
+}
+
+.menu {
+    padding-top: 2%;
+    text-align: center;
+    border-right: groove #d6e9f9;
+
+}
+.menu a {
+     color: black;
+}
+.menu a:hover {
+    color: #113049;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0.2, 0.2);
+    -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0.2, 0.2);
+}
+
+.interactive {
+    margin-top: 10%;
+    color: dodgerblue;
+}
+.news1 {
+    margin-top: 3%;
+}
+.news1 p {
+    margin-top: 1%;
+    width: 740px;
+}
+.news1 img {
+    width: 75%;
+    height: 40%;
+}
+
+.topbutton {
+    width:100px;
+    border:2px solid #ccc;
+    background:#f7f7f7;
+    text-align:center;
+    padding:10px;
+    position:fixed;
+    bottom:50px;
+    right:50px;
+    cursor:pointer;
+    color:#333;
+    font-family:verdana;
+    font-size:12px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+}
